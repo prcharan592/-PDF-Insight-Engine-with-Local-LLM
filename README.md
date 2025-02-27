@@ -18,10 +18,10 @@ A Streamlit-based AI application that enables users to upload PDFs, process thei
 	•	Ollama (for running local LLMs)
 
 # Model	Used
-Mistral 7B	4.1 GB	
-Llama3 8B	4.7 GB	
-Llama3.2 3B	2.0 GB
-DeepSeek-R1 7B	4.7 GB
+# Mistral 7B	4.1 GB	
+# Llama3 8B	4.7 GB	
+# Llama3.2 3B	2.0 GB
+# DeepSeek-R1 7B	4.7 GB
 
 # 🏗️ Installation & Setup
 
@@ -40,10 +40,10 @@ Ollama is required to run the local LLM. Download and install it from:
 🔗 https://ollama.com
 
 # Then, pull the required models:
-ollama pull mistral
-ollama pull llama3
-ollama pull llama3:8b
-ollama pull deepseek-r1
+# ollama pull mistral
+# ollama pull llama3
+# ollama pull llama3:8b
+# ollama pull deepseek-r1
 
 
 # ▶️ Running the Application
