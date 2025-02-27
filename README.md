@@ -55,7 +55,7 @@ ollama pull deepseek-r1
 ### ▶️ Running the Application  
 Start the Streamlit app using:  
 ```bash
-streamlit run app.py
+streamlit run App.py
 ```
 
 ## 🏗️ How It Works  
